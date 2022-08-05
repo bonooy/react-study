@@ -6,4 +6,4 @@
 <br>
 2022년 ver. movie-app
 <br>
-ReactJS 2019ver 사용한 movie-app -> https://github.com/Bonooy/movie-app
+ReactJS 2019ver 사용한 movie-app -> https://github.com/bonooy/movie-app
