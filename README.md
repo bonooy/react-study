@@ -2,8 +2,7 @@
 ### Movie App
 ###### ReactJS
 
->React JS Fundamentals Course (2022 Update)<br>
->https://nomadcoders.co/react-for-beginners/lobby
+>[React JS Fundamentals Course (2022 Update)](https://nomadcoders.co/react-for-beginners/lobby)
 <br>
 2022년 ver. movie-app
 <br>
